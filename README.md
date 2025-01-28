@@ -50,6 +50,6 @@ whe i use `min-height: 100vh` the container will be at least the height of the v
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [darkquail](https://darkquail.github.io/qr-component-challange-solution.html)
+- Frontend Mentor - [@MindOfMine](https://www.frontendmentor.io/profile/MindOfMine)
 
